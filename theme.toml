@@ -11,6 +11,10 @@ min_version = 0.15
   name = "digitalcraftsman"
   homepage = "//github.com/digitalcraftsman"
 
+[params]
+  # number of pages in read more
+  readMorePages = 10
+
 [[original]]
   # Ported the stardard theme of the Cactus for Mac static site generator to Jekyll
   name = "Nick Balestra"
